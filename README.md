@@ -13,6 +13,8 @@ Hi 👋 I'm Deepak
 ⚒️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)]
+
+
 🎯 Goals
 Build impactful real-world projects
 Explore different areas of technology
