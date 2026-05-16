@@ -1,39 +1,37 @@
-# Hi 👋 I'm Deepak
+Hi 👋 I'm Deepak
 
-🎓 CSE Student at Sathyabama Institute of Science and Technology  
-💻 Passionate about technology, development and continuous learning  
-🚀 Exploring, researching and building everything I can learn  
-📈 Consistently improving through projects and real-world practice  
-🌱 Currently focused on growing as a developer every single day  
+🎓 CSE Student at Sathyabama Institute of Science and Technology
 
-## Goals
-- Build impactful real-world projects
-- Explore different areas of technology
-- Become a skilled software developer
-- Keep learning without limits 🚀
+💻 Passionate about technology, development and continuous learning
 
-📈 MY JOURNEY
+🚀 Exploring, learning and building real-world projects every day
+
+📚 Improving consistently through hands-on projects and practice
+
+🌱 Focused on growing as a software developer step by step
+
+⚒️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode)](https://skillicons.dev)
+
+🎯 Goals
+Build impactful real-world projects
+Explore different areas of technology
+Become a skilled software developer
+Keep learning and improving every day 🚀
+📖 My Journey
 
 Started my developer journey in 2026 🚀
 
-Currently learning through hands-on projects, research and continuous practice.
-<!--🚀 JOURNEY
+Currently learning through projects, research and continuous practice while improving my problem-solving and development skills every day.
 
-Exploring different areas in tech by learning, building and experimenting with projects.
-
-Focused on improving consistently and growing as a developer every single day.
-
-━━━━━━━━━━━━━━━━━━
-**Deepakbalan0307/Deepakbalan0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Current Focus
+Web Development 🌐
+Python Programming 🐍
+Git & GitHub 🔧
+Building beginner-friendly projects 💡
+🚀 Future Goals
+Learn full-stack development
+Contribute to open-source projects
+Build creative and useful applications
+Grow into a professional software engineer
