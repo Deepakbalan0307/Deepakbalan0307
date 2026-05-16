@@ -10,7 +10,7 @@
 - Build impactful real-world projects
 - Explore different areas of technology
 - Become a skilled software developer
-- Keep learning without limits 🚀## Hi there 👋
+- Keep learning without limits 🚀
 
 <!--
 **Deepakbalan0307/Deepakbalan0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
