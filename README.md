@@ -12,7 +12,18 @@
 - Become a skilled software developer
 - Keep learning without limits 🚀
 
-<!--
+📈 MY JOURNEY
+
+Started my developer journey in 2026 🚀
+
+Currently learning through hands-on projects, research and continuous practice.
+<!--🚀 JOURNEY
+
+Exploring different areas in tech by learning, building and experimenting with projects.
+
+Focused on improving consistently and growing as a developer every single day.
+
+━━━━━━━━━━━━━━━━━━
 **Deepakbalan0307/Deepakbalan0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
